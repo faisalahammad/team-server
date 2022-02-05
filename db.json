@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Asraful Haq",
+      "age": 23,
+      "location": "Mirpur"
+    },
+    {
+      "id": 2,
+      "name": "Faisal Ahmmad",
+      "age": 24,
+      "location": "Purbachal"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "age": 33,
+      "location": "USA"
+    },
+    {
+      "id": 4,
+      "name": "Polapain",
+      "age": 3,
+      "location": "Dhaka"
+    }
+  ]
+}
